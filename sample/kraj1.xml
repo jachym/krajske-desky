@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Úřední deska Královéhradecký kraj</title>
+  <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hradec_Kralove_Region_CoA_CZ.svg/800px-Hradec_Kralove_Region_CoA_CZ.svg.png</logo>
+  <link href="https://www.kr-kralovehradecky.cz"/>
+  <link rel="self" type="text/xml" href="https://www.kr-kralovehradecky.cz/uredni-deska/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://www.kr-kralovehradecky.cz/uredni-deska/" />
+  <updated>2022-02-01T12:00:00</updated>
+  <author>
+    <name>Krajský úřad Královéhradecký kraj</name>
+    <email>urad@kr-kralovehradecky.cz</email>
+  </author>
+  <id>cz:samosprava:kraje:CZ052</id>
+
+  <entry>
+    <title>Zveřejnění informací o provozu podatelny a o podmínkách přijímání dokumentů Krajského úřadu KHK </title>
+    <category term="UR" label="Úřad" />
+    <link href="https://kr-kralovehradecky.cz/cz/krajsky-urad/uredni-deska/ostatni/zverejneni-informaci-o-provozu-podatelny-a-o-podminkach-prijimani-dokumentu-krajskeho-uradu-khk-336249/" />
+    <id>cz:samosprava:kraje:CZ052:336249</id>
+    <updated>2022-01-30:00:00</updated>
+    <summary>
+      Podle § 2 odst. 3 vyhlášky č. 259/2012 Sb. o podrobnostech výkonu
+      spisové služby musí veřejnoprávní původce na své úřední desce
+      povinně zveřejnit informace o provozu podatelny a o podmínkách
+      přijímání dokumentů.
+    </summary>
+  </entry>
+
+</feed>
