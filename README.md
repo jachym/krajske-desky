@@ -45,3 +45,7 @@ Příklady obsahu úředních desek dostupných ve formátu ATOM:
 
 * [Kraj](sample/kraj1.xml)
 * [Obec](sample/obec1.xml)
+
+## K vyzkoušení
+
+
